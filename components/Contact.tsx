@@ -12,7 +12,7 @@ const Contact: React.FC = () => {
           <div className="bg-white/10 p-6 rounded-lg backdrop-blur-sm">
             <h3 className="font-semibold font-heading text-xl mb-2">Hubungi Kami</h3>
             <p className="text-gray-300">
-                <i className="fas fa-phone mr-2"></i> +62 812 3456 7890 (Admin)
+                <i className="fas fa-phone mr-2"></i> +62 896 7092 4182 (Admin)
             </p>
             <p className="text-gray-300 mt-1">
                 <i className="fas fa-envelope mr-2"></i> pesma@unugha.ac.id
@@ -28,7 +28,7 @@ const Contact: React.FC = () => {
           </div>
         </div>
         <a 
-          href="https://wa.me/6281234567890?text=Assalamualaikum,%20saya%20tertarik%20untuk%20mendaftar%20di%20Pesantren%20Mahasiswa%20UNUGHA." 
+          href="https://wa.me/6289670924182?text=Assalamualaikum,%20saya%20tertarik%20untuk%20mendaftar%20di%20Pesantren%20Mahasiswa%20UNUGHA." 
           target="_blank" 
           rel="noopener noreferrer"
           className="bg-brand-gold text-brand-green-dark font-bold py-4 px-10 rounded-full text-lg hover:brightness-110 transition-all duration-300 transform hover:scale-110 shadow-lg inline-block"
